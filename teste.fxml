@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button fx:id="voltarButton" layoutX="50.0" layoutY="36.0" mnemonicParsing="false" onAction="#handleProjetoButtonAction" text="voltar" />
+      <DatePicker layoutX="127.0" layoutY="49.0" />
+      <DatePicker layoutX="344.0" layoutY="49.0" />
+      <TextField fx:id="nomeField" layoutX="37.0" layoutY="114.0" promptText="nome" />
+   </children>
+</AnchorPane>
