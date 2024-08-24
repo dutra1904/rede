@@ -1,5 +1,6 @@
 # Projeto:
-![Captura de tela 2024-08-24 021028](https://github.com/user-attachments/assets/8a931d6d-1c05-4e7d-817d-f5c9e15a679c)
+
+![Captura de tela 2024-08-24 021028](https://github.com/user-attachments/assets/f5320a67-3611-4a5f-81fa-2ae0d950e8ab)
 
 
 ## Documentação 
